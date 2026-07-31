@@ -31,7 +31,8 @@ TicTacToe-React/
 
 ## 📸 Screenshot
 
-_Add a screenshot of the game here._
+<img width="1920" height="948" alt="Screenshot (166)" src="https://github.com/user-attachments/assets/4a63b3e9-4455-41e8-ab77-e4328f3460d2" />
+
 
 ## 👩‍💻 Author
 
