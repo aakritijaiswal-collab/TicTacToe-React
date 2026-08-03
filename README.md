@@ -39,6 +39,7 @@ TicTacToe-React/
 **Aakriti Jaiswal**
 
 GitHub: https://github.com/aakritijaiswal-collab
+LinkedIn: https://linkedin.com/in/aakriti-jaiswal29
 
 ---
 
